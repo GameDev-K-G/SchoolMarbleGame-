@@ -28,7 +28,7 @@ Game development project - development of a marble game like we used to play dur
 
 ## רכיבים רשמיים
 * קישור לקובץ רכיבי המשחק הרשמיים :
-[formal-elements.md](https://github.com/GameDev-K-G/SchoolMarbleGame-/blob/main/formal-elements.md)![image](https://user-images.githubusercontent.com/73976733/226758236-6996aa70-ea2c-418e-ad9d-5a66079b198a.png)
+[formal-elements.md](https://github.com/GameDev-K-G/SchoolMarbleGame-/blob/main/formal-elements.md)
  
 
 ## מדריך גולות ביוטיוב:
