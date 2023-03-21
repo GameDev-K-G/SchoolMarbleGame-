@@ -24,9 +24,7 @@ Game development project - development of a marble game like we used to play dur
 
 
 ## רכיבים רשמיים
-
-
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
+.
 
 ### 1. שחקנים
 
@@ -84,9 +82,11 @@ Game development project - development of a marble game like we used to play dur
 
 ## סקר שוק
 
-[Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)![226743925-b4bbcd8b-6ba6-4ca1-b095-2128e1110b31 (1)](https://user-images.githubusercontent.com/73976733/226747598-7de9dd5d-b709-43a2-b160-1f8f016cdf3f.png)
+![f1afab74a1a53412569cf25d691a64a0](https://user-images.githubusercontent.com/73976733/226748321-6c27d28a-8b43-4043-a5b4-d2bd9b8356f5.jpeg)
+  [Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)
 
-[squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)![14ccb497b4e028ee09501e48c2212892](https://user-images.githubusercontent.com/73976733/226747902-985f8f90-84c1-481e-ba1e-b52d5ffa9e1b.jpeg)
+![14ccb497b4e028ee09501e48c2212892 (1)](https://user-images.githubusercontent.com/73976733/226748147-0c3c3c7a-56d0-4292-940b-d8065b2958e5.jpeg)
+  [squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)
 
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
