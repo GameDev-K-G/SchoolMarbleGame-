@@ -7,7 +7,7 @@ Game development project - development of a marble game like we used to play dur
 ![226718186-e48cecce-e8cd-4fda-bdff-93e262170f65 (1)](https://user-images.githubusercontent.com/73976733/226732580-4243460f-619e-413a-8736-16ca96c29213.png)
 
 
-                             **משחק הגולות שכולנו חיכינו להפסקה בבית הספר רק כדי לשחק בו עכשיו בפלאפון שלכם**
+                              ** משחק הגולות שכולנו חיכינו להפסקה בבית הספר רק כדי לשחק בו עכשיו בפלאפון שלכם **
 
 ## מהות המשחק
  
@@ -17,8 +17,9 @@ Game development project - development of a marble game like we used to play dur
 
  למי שלא מספיק הרקע הקצר על המשחק גולות מצורף מדריך בסוף הקובץ המדריך איך לשחק ועל המשחק.
  
-ציור הממחיש את המשחק:
- <img width="1260" alt="Drawing (1)" src="https://user-images.githubusercontent.com/73976733/226731770-e942f30e-79f0-457a-ab12-7250f4c1b25a.png">
+## ציור הממחיש את המשחק:
+
+<img width="1260" alt="Drawing (2)" src="https://user-images.githubusercontent.com/73976733/226747664-5b376129-ad2e-4b3f-8a66-14fc78d914e4.png">
 
 
 
@@ -83,10 +84,10 @@ Game development project - development of a marble game like we used to play dur
 
 ## סקר שוק
 
-[Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)
-![image](https://user-images.githubusercontent.com/73976733/226743925-b4bbcd8b-6ba6-4ca1-b095-2128e1110b31.png)
+[Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)![226743925-b4bbcd8b-6ba6-4ca1-b095-2128e1110b31 (1)](https://user-images.githubusercontent.com/73976733/226747598-7de9dd5d-b709-43a2-b160-1f8f016cdf3f.png)
 
-[squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)
+[squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)![14ccb497b4e028ee09501e48c2212892](https://user-images.githubusercontent.com/73976733/226747902-985f8f90-84c1-481e-ba1e-b52d5ffa9e1b.jpeg)
+
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 
