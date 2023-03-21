@@ -81,21 +81,23 @@ Game development project - development of a marble game like we used to play dur
 ---
 
 ## סקר שוק
+  
+  המשחקים הדומים ביותר שמצאתי הם :
 
-![f1afab74a1a53412569cf25d691a64a0](https://user-images.githubusercontent.com/73976733/226748321-6c27d28a-8b43-4043-a5b4-d2bd9b8356f5.jpeg)[Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)
+![f1afab74a1a53412569cf25d691a64a0](https://user-images.githubusercontent.com/73976733/226748321-6c27d28a-8b43-4043-a5b4-d2bd9b8356f5.jpeg)
+  
+  [Shooting Marbles](https://freegamesboom.com/he/games/shooting-marbles/)
 
 
-![14ccb497b4e028ee09501e48c2212892 (1)](https://user-images.githubusercontent.com/73976733/226748147-0c3c3c7a-56d0-4292-940b-d8065b2958e5.jpeg)[squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)
+![14ccb497b4e028ee09501e48c2212892 (1)](https://user-images.githubusercontent.com/73976733/226748147-0c3c3c7a-56d0-4292-940b-d8065b2958e5.jpeg)
+  
+  [squid-game-marble](https://freegamesboom.com/he/games/squid-game-marble/)
  
 
-
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
+.
 * הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+מבין הרכיבים הרשמיים הרכיבים של היעדים והמשאבים במשחק שלי יהיו מעניינים יותר מכיוון שיש אצלי את התחרות בין החברים והרצון לאסוף גולות נדירות לאוסף הפרטי שלי וההימורים על הגולות שלי ורצון להמר זה רצון ממכר לפי הרבה מחקרים.
 
 
 </div>
