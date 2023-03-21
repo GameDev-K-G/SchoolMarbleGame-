@@ -4,9 +4,12 @@ Game development project - development of a marble game like we used to play dur
 <div dir='rtl' lang='he'>
 
 # שם המשחק: גולות
-![226718186-e48cecce-e8cd-4fda-bdff-93e262170f65 (1)](https://user-images.githubusercontent.com/73976733/226732580-4243460f-619e-413a-8736-16ca96c29213.png)
+  
 
-                                ## משחק הגולות שכולנו חיכינו להפסקה בבית הספר רק כדי לשחק בו עכשיו בפלאפון שלכם ##
+## משחק הגולות שכולנו חיכינו להפסקה בבית הספר רק כדי לשחק בו עכשיו אצלכם בנייד ובמחשב ##
+  
+  
+![226718186-e48cecce-e8cd-4fda-bdff-93e262170f65 (1)](https://user-images.githubusercontent.com/73976733/226732580-4243460f-619e-413a-8736-16ca96c29213.png) 
 
 
 ## מהות המשחק
