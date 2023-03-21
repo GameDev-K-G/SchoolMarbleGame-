@@ -108,8 +108,9 @@ Game development project - development of a marble game like we used to play dur
 * מבין הרכיבים הרשמיים הרכיבים של היעדים והמשאבים במשחק שלי יהיו מעניינים יותר מכיוון שיש אצלי את התחרות בין החברים והרצון לאסוף גולות נדירות לאוסף הפרטי שלי וההימורים על הגולות שלי ורצון להמר זה רצון ממכר לפי הרבה מחקרים. 
 
 ## מדריך גולות ביוטיוב:
-  
- [מדריך גולות](https://www.youtube.com/watch?v=SfdKJllv7BM&ab_channel=YaaraBashanHaham)
+
+  ![download (4)](https://user-images.githubusercontent.com/73976733/226754569-ea3ddf05-52f0-4c40-b892-21a117e539e3.jpeg)
+[מדריך למשחק גולות](https://www.youtube.com/watch?v=SfdKJllv7BM&ab_channel=YaaraBashanHaham)
 
 ## תהנו :smiley:
 </div>
